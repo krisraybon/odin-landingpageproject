@@ -5,11 +5,11 @@
 
 body {
     font-family: inter, 'Open Sans', 'Helvetica Neue', sans-serif;
-    margin: 0;
+    /* margin: 0;
     height: 100vh;
     display: flex;
     flex-direction: column;
-    overflow: hidden;
+    overflow: hidden; */
 }
   
 img {
