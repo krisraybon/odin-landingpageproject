@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: inter, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+  
+img {
+    max-width: 100%;
+    height: auto;
+}  
