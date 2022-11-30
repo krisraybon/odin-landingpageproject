@@ -12,6 +12,7 @@ body {
     overflow: hidden; */
 }
 
+/*Images*/
 header img {
     max-width: 100%;
     height: auto;
@@ -39,3 +40,10 @@ header img {
     border-color: #3882F6;
     border-radius: 5px;
 }  
+
+/*Section_Hero*/
+
+.hero-copy h2 {
+    font-size: 48px;
+    font-weight: 700;
+}
