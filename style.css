@@ -55,3 +55,8 @@ header {
     font-size: 48px;
     font-weight: 700;
 }
+
+/*Section_Footer*/
+footer {
+    background-color: #1F2937;
+}
