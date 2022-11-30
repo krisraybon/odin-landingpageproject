@@ -56,6 +56,11 @@ header {
     font-weight: 700;
 }
 
+.hero-copy p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
 /*Section_Footer*/
 footer {
     background-color: #1F2937;
