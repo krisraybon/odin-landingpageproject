@@ -34,5 +34,8 @@ header img {
     object-fit: contain;
     width: 100px;
     height: 100px;
-    border: #3882F6;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #3882F6;
+    border-radius: 5px;
 }  
