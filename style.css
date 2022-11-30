@@ -12,7 +12,7 @@ body {
     overflow: hidden; */
 }
 
-.header .img {
+.header img {
     max-width: 100%;
     height: auto;
     object-fit: contain;
@@ -20,7 +20,7 @@ body {
     height: 100px; 
 }
   
-.content1 .img {
+.content1 img {
     max-width: 100%;
     height: auto;
     object-fit: contain;
