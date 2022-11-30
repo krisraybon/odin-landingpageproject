@@ -46,6 +46,13 @@ header {
     background-color: #1F2937;
 }
 
+/*Nav*/
+a:link {
+    text-decoration: none;
+    color: #E5E7EB;
+  }
+
+
 /*Section_Hero*/
 .hero {
     background-color: #1F2937;
@@ -65,4 +72,5 @@ header {
 /*Section_Footer*/
 footer {
     background-color: #1F2937;
+    color: #E5E7EB;
 }
