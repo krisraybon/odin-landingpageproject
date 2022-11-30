@@ -41,10 +41,17 @@ header img {
     border-radius: 5px;
 }  
 
+/*Section_Header*/
+header {
+    background-color: #1F2937;
+}
+
 /*Section_Hero*/
+.hero {
+    background-color: #1F2937;
+}
 
 .hero-copy h2 {
     font-size: 48px;
     font-weight: 700;
-    background-color: #1F2937;
 }
