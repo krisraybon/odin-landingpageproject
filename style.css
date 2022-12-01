@@ -104,6 +104,13 @@ a:link {
     color: #1F2937;
 }
 
+.content2 #quotesigned {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    font-weight: 800;
+}
+
 
 /*Section_Footer*/
 footer {
