@@ -85,6 +85,14 @@ a:link {
 }
 
 
+/*Section_content1*/
+.content1 .randocontainer {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+}
+
+
 /*Section_Footer*/
 footer {
     background-color: #1F2937;
