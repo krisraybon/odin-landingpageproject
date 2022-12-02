@@ -88,6 +88,7 @@ a:link {
 /*Section_Hero*/
 .hero {
     background-color: #1F2937;
+    display: flex;
 }
 
 .hero-copy h2 {
@@ -103,12 +104,25 @@ a:link {
 
 
 /*Section_content1*/
+.content1 {
+    text-align: center;
+}
+
 .content1 .subheader {
     font-size: 36px;
     font-weight: 800;
     color: #1F2937;
 }
 
+.content1 .randocontainer {
+    display: flex;
+}
+
+.flex1, .flex2, .flex3, .flex4 {
+    margin: 0 auto;
+    text-align: center;
+    width: 160px;
+}
 
 /*Section_content2*/
 .content2 {
@@ -126,6 +140,7 @@ a:link {
     font-style: italic;
     color: #1F2937;
     font-weight: 800;
+    text-align: right;
 }
 
 
