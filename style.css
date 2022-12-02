@@ -73,12 +73,15 @@ button {
 /*Section_Header*/
 header {
     background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
 }
 
 /*Nav*/
 a:link {
     text-decoration: none;
     color: #E5E7EB;
+    padding: 10px;
 }
 
 
